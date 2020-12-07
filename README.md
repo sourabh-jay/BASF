@@ -8,3 +8,4 @@ Model has been used only on 4 documnets as below;
 4. RheovisFRCTechnicalInformation
 
 dat_pd_ctxt file contains the question, answers and context used to test the model.
+screenshots show the results of the questions in the dat_pd_ctxt file
